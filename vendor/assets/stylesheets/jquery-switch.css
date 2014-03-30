@@ -29,7 +29,7 @@
   border: solid 8px beige;
   position: relative;
   margin-top: -34px;
-  z-index: 100;
+  z-index: 95;
   
   -moz-border-radius: 17px;
   -webkit-border-radius: 17px;
@@ -52,7 +52,7 @@
   height: 20px; width: auto;
   margin: 5px;
   position: absolute;
-  z-index: 101;
+  z-index: 96;
 }
 
 .ui-switch-handle {
@@ -91,7 +91,7 @@
   height: 20px; width: 1000px;
   margin: 5px;
   position: absolute;
-  z-index: 99;
+  z-index: 94;
 }
 
 .ui-switch-labels {
